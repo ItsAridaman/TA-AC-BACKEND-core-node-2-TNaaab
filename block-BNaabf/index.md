@@ -1,5 +1,7 @@
 ## BLOCK-writeCode
 
+<!-- .............. -->
+
 #### path
 Q. Suppose on desktop, inside projects we have 2 folder each with a file
 Structure is:-
